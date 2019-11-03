@@ -1,2 +1,2 @@
 # Animations
-Animating charts with Matplotlib library
+Animating charts (graphs) with Matplotlib library
